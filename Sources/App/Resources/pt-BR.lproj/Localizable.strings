@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "Conectar";
 "onboarding.manual_setup.couldnt_make_url.message" = "O valor ' %@ ' não era um URL válido.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Não foi possível criar uma URL";
-"onboarding.manual_setup.description" = "O URL do servidor do Home Assistant. Certifique-se de que inclui o protocolo e a porta.";
+"onboarding.manual_setup.description" = "O URL do servidor do Bsmart. Certifique-se de que inclui o protocolo e a porta.";
 "onboarding.manual_setup.no_scheme.message" = "Devemos tentar conectar usando http:// ou https://?";
 "onboarding.manual_setup.no_scheme.title" = "URL inserido sem esquema";
 "onboarding.manual_setup.title" = "Digite o URL";
@@ -249,10 +249,10 @@
 "onboarding.scanning.manual" = "Digite o endereço manualmente";
 "onboarding.scanning.manual_hint" = "Não encontrou seu servidor?";
 "onboarding.scanning.title" = "Escaneando servidores";
-"onboarding.welcome.description" = "Este aplicativo se conecta ao servidor do Home Assistant e permite integrar dados sobre você e seu telefone. \
+"onboarding.welcome.description" = "Este aplicativo se conecta ao servidor do Bsmart e permite integrar dados sobre você e seu telefone. \
 \
  O Home Assistant é um software de automação residencial gratuito e de código aberto com foco no controle local e na privacidade.";
-"onboarding.welcome.title" = "Bem-vindo ao Home Assistant %@ !";
+"onboarding.welcome.title" = "Bem-vindo ao Bsmart App %@ !";
 "open_label" = "Abrir";
 "preview_output" = "Pré-visualização da saída";
 "requires_version" = "Requer %@ ou posterior.";

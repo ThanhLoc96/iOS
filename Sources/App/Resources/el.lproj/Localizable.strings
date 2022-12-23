@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "Σύνδεση";
 "onboarding.manual_setup.couldnt_make_url.message" = "Η τιμή '%@' δεν ήταν έγκυρη διεύθυνση URL.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Δεν ήταν δυνατή η δημιουργία διεύθυνσης URL";
-"onboarding.manual_setup.description" = "Η διεύθυνση URL του διακομιστή Home Assistant. Βεβαιωθείτε ότι περιλαμβάνει το πρωτόκολλο και τη θύρα.";
+"onboarding.manual_setup.description" = "Η διεύθυνση URL του διακομιστή Bsmart. Βεβαιωθείτε ότι περιλαμβάνει το πρωτόκολλο και τη θύρα.";
 "onboarding.manual_setup.no_scheme.message" = "Θα πρέπει να προσπαθήσουμε να συνδεθούμε χρησιμοποιώντας http:// ή https://;";
 "onboarding.manual_setup.no_scheme.title" = "Η διεύθυνση URL καταχωρήθηκε χωρίς σχήμα";
 "onboarding.manual_setup.title" = "Εισαγωγή διεύθυνσης URL";
@@ -249,10 +249,10 @@
 "onboarding.scanning.manual" = "Εισαγωγή διεύθυνσης χειροκίνητα";
 "onboarding.scanning.manual_hint" = "Δεν βρίσκετε τον διακομιστή σας;";
 "onboarding.scanning.title" = "Σάρωση για διακομιστές";
-"onboarding.welcome.description" = "Αυτή η εφαρμογή συνδέεται με τον διακομιστή Home Assistant και επιτρέπει την ενσωμάτωση δεδομένων σχετικά με εσάς και το τηλέφωνό σας. \
+"onboarding.welcome.description" = "Αυτή η εφαρμογή συνδέεται με τον διακομιστή Bsmart και επιτρέπει την ενσωμάτωση δεδομένων σχετικά με εσάς και το τηλέφωνό σας. \
 \
  Το Home Assistant είναι δωρεάν και ανοιχτού κώδικα λογισμικό αυτοματισμού σπιτιού με έμφαση στον τοπικό έλεγχο και την ιδιωτικότητα.";
-"onboarding.welcome.title" = "Καλώς ορίσατε στο Home Assistant %@!";
+"onboarding.welcome.title" = "Καλώς ορίσατε στο Bsmart App %@!";
 "open_label" = "Άνοιγμα";
 "preview_output" = "Έξοδος προεπισκόπησης";
 "requires_version" = "Απαιτεί %@ ή μεταγενέστερη έκδοση.";

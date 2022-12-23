@@ -773,7 +773,7 @@ public enum L10n {
     public enum ManualSetup {
       /// Connect
       public static var connect: String { return L10n.tr("Localizable", "onboarding.manual_setup.connect") }
-      /// The URL of your Home Assistant server. Make sure it includes the protocol and port.
+      /// The URL of your Bsmart server. Make sure it includes the protocol and port.
       public static var description: String { return L10n.tr("Localizable", "onboarding.manual_setup.description") }
       /// Enter URL
       public static var title: String { return L10n.tr("Localizable", "onboarding.manual_setup.title") }
@@ -875,11 +875,11 @@ public enum L10n {
       public static var title: String { return L10n.tr("Localizable", "onboarding.scanning.title") }
     }
     public enum Welcome {
-      /// This app connects to your Home Assistant server and allows integrating data about you and your phone.
+      /// This app connects to your Bsmart server and allows integrating data about you and your phone.
       /// 
-      /// Home Assistant is free and open source home automation software with a focus on local control and privacy.
+      /// Bsmart App is free and open source home automation software with a focus on local control and privacy.
       public static var description: String { return L10n.tr("Localizable", "onboarding.welcome.description") }
-      /// Welcome to Home Assistant %@!
+      /// Welcome to Bsmart App %@!
       public static func title(_ p1: Any) -> String {
         return L10n.tr("Localizable", "onboarding.welcome.title", String(describing: p1))
       }
@@ -952,7 +952,7 @@ public enum L10n {
         public static var title: String { return L10n.tr("Localizable", "settings.connection_section.home_assistant_cloud.title") }
       }
       public enum InternalBaseUrl {
-        /// e.g. http://homeassistant.local:8123/
+        /// http://<192.168.0.250:8123>
         public static var placeholder: String { return L10n.tr("Localizable", "settings.connection_section.internal_base_url.placeholder") }
         /// Internal URL
         public static var title: String { return L10n.tr("Localizable", "settings.connection_section.internal_base_url.title") }

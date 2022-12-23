@@ -215,7 +215,7 @@ Les etiquetes funcionaran en qualsevol dispositiu amb Home Assistant instal·lat
 "onboarding.manual_setup.connect" = "Connecta't";
 "onboarding.manual_setup.couldnt_make_url.message" = "El valor \" %@ \" no és una URL vàlida.";
 "onboarding.manual_setup.couldnt_make_url.title" = "No s'ha pogut crear una URL";
-"onboarding.manual_setup.description" = "L'adreça URL del servidor Home Assistant. Assegureu-vos que inclou el protocol i el port.";
+"onboarding.manual_setup.description" = "L'adreça URL del servidor Bsmart. Assegureu-vos que inclou el protocol i el port.";
 "onboarding.manual_setup.no_scheme.message" = "Hauríem d'intentar connectar-nos utilitzant http:// o https://?";
 "onboarding.manual_setup.no_scheme.title" = "URL introduïda sense esquema";
 "onboarding.manual_setup.title" = "Introduïu l'adreça URL";
@@ -249,10 +249,10 @@ Les etiquetes funcionaran en qualsevol dispositiu amb Home Assistant instal·lat
 "onboarding.scanning.manual" = "Introduïu l'adreça manualment";
 "onboarding.scanning.manual_hint" = "No trobeu el vostre servidor?";
 "onboarding.scanning.title" = "S'està cercant servidors";
-"onboarding.welcome.description" = "Aquesta aplicació es connecta al vostre servidor Home Assistant i permet integrar dades sobre tu i el teu telèfon. \
+"onboarding.welcome.description" = "Aquesta aplicació es connecta al vostre servidor Bsmart i permet integrar dades sobre tu i el teu telèfon. \
 \
 Home Assistant és un programari d'automatització de la llar gratuït i de codi obert, centrat en el control local i la privadesa.";
-"onboarding.welcome.title" = "Benvinguts a Home Assistant %@!";
+"onboarding.welcome.title" = "Benvinguts a Bsmart App %@!";
 "open_label" = "Obrir";
 "preview_output" = "Previsualització de la sortida";
 "requires_version" = "Requereix %@ o posterior";

@@ -248,7 +248,7 @@
 "onboarding.scanning.manual" = "手动输入地址";
 "onboarding.scanning.manual_hint" = "没有找到您的服务器？";
 "onboarding.scanning.title" = "正在扫描服务器";
-"onboarding.welcome.description" = "此应用程序将连接到您的 Home Assistant 服务器，并将集成有关您和您的移动设备的数据。Home Assistant 是免费的开源家庭自动化软件，专注于本地控制和隐私保护。";
+"onboarding.welcome.description" = "此应用程序将连接到您的 Bsmart 服务器，并将集成有关您和您的移动设备的数据。Home Assistant 是免费的开源家庭自动化软件，专注于本地控制和隐私保护。";
 "onboarding.welcome.title" = "欢迎使用家庭助理%@ ！";
 "open_label" = "打开";
 "preview_output" = "预览输出";

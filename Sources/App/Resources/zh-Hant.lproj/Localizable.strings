@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "連線";
 "onboarding.manual_setup.couldnt_make_url.message" = "數值 '%@' 並非有效 URL。";
 "onboarding.manual_setup.couldnt_make_url.title" = "無法製作 URL";
-"onboarding.manual_setup.description" = "Home Assistant 伺服器 URL、記得包含協定與通訊埠。";
+"onboarding.manual_setup.description" = "Bsmart 伺服器 URL、記得包含協定與通訊埠。";
 "onboarding.manual_setup.no_scheme.message" = "是否要嘗試以 http:// 或 https:// 進行連線？";
 "onboarding.manual_setup.no_scheme.title" = "所輸入 URL 不符結構";
 "onboarding.manual_setup.title" = "輸入 URL";
@@ -249,10 +249,10 @@
 "onboarding.scanning.manual" = "手動輸入位址";
 "onboarding.scanning.manual_hint" = "找不到伺服器？";
 "onboarding.scanning.title" = "掃描伺服器";
-"onboarding.welcome.description" = "App 將連線至 Home Assistant 伺服器並允許整合關於你與手機的資料。\
+"onboarding.welcome.description" = "App 將連線至 Bsmart 伺服器並允許整合關於你與手機的資料。\
 \
 Home Assistant 為一款免費且開源的家庭自動化軟體、專制於本地端控制與隱私議題。";
-"onboarding.welcome.title" = "歡迎使用 Home Assistant %@！";
+"onboarding.welcome.title" = "歡迎使用 Bsmart App %@！";
 "open_label" = "開啟";
 "preview_output" = "預覽輸出";
 "requires_version" = "需要 %@ 或更新版本。";

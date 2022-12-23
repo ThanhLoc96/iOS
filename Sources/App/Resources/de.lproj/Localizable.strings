@@ -215,7 +215,7 @@ Tags funktionieren auf jedem Gerät mit Hardwareunterstützung zum Lesen von NFC
 "onboarding.manual_setup.connect" = "Verbinden";
 "onboarding.manual_setup.couldnt_make_url.message" = "Der Wert ' %@ ' war keine gültige URL.";
 "onboarding.manual_setup.couldnt_make_url.title" = "URL konnte nicht erstellt werden";
-"onboarding.manual_setup.description" = "Die URL Ihres Home Assistant-Servers. Achten Sie darauf, dass sie das Protokoll und den Port enthält.";
+"onboarding.manual_setup.description" = "Die URL Ihres Bsmart-Servers. Achten Sie darauf, dass sie das Protokoll und den Port enthält.";
 "onboarding.manual_setup.no_scheme.message" = "Sollen wir versuchen, eine Verbindung über http:// oder https:// herzustellen?";
 "onboarding.manual_setup.no_scheme.title" = "URL ohne Schema eingegeben";
 "onboarding.manual_setup.title" = "URL eingeben";
@@ -249,10 +249,10 @@ Tags funktionieren auf jedem Gerät mit Hardwareunterstützung zum Lesen von NFC
 "onboarding.scanning.manual" = "Adresse manuell eingeben";
 "onboarding.scanning.manual_hint" = "Wird ihr Server nicht gefunden?";
 "onboarding.scanning.title" = "Sucht nach Servern";
-"onboarding.welcome.description" = "Diese App stellt eine Verbindung zu Ihrem Home Assistant-Server her und ermöglicht die Integration von Daten über Sie und Ihr Telefon.\
+"onboarding.welcome.description" = "Diese App stellt eine Verbindung zu Ihrem Bsmart-Server her und ermöglicht die Integration von Daten über Sie und Ihr Telefon.\
 \
 Home Assistant ist eine kostenlose und quelloffene Hausautomatisierungssoftware mit dem Schwerpunkt auf lokaler Kontrolle und Datenschutz.";
-"onboarding.welcome.title" = "Willkommen bei Home Assistant %@!";
+"onboarding.welcome.title" = "Willkommen bei Bsmart App %@!";
 "open_label" = "Öffnen";
 "preview_output" = "Vorschau der Ausgabe";
 "requires_version" = "Erfordert %@ oder neuer.";

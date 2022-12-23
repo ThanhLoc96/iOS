@@ -247,10 +247,10 @@
 "onboarding.scanning.manual" = "Wprowadź adres ręcznie";
 "onboarding.scanning.manual_hint" = "Nie możesz znaleźć swojego serwera?";
 "onboarding.scanning.title" = "Wyszukiwanie serwerów Home Assistanta";
-"onboarding.welcome.description" = "This app connects to your Home Assistant server and allows integrating data about you and your phone.\
+"onboarding.welcome.description" = "This app connects to your Bsmart server and allows integrating data about you and your phone.\
 \
-Home Assistant is free and open source home automation software with a focus on local control and privacy.";
-"onboarding.welcome.title" = "Welcome to Home Assistant %@!";
+Bsmart App is free and open source home automation software with a focus on local control and privacy.";
+"onboarding.welcome.title" = "Welcome to Bsmart App %@!";
 "open_label" = "Otwórz";
 "preview_output" = "Podgląd wyników";
 "requires_version" = "Wymaga wersji %@ lub nowszej.";

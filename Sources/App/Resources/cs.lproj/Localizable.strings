@@ -215,7 +215,7 @@ Tagy budou fungovat na jakémkoliv zařízení s Home Assistantem a hardwarovou 
 "onboarding.manual_setup.connect" = "Connect";
 "onboarding.manual_setup.couldnt_make_url.message" = "Hodnota „ %@ “ není platná adresa URL.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Nelze vytvořit adresu URL.";
-"onboarding.manual_setup.description" = "The URL of your Home Assistant server. Make sure it includes the protocol and port.";
+"onboarding.manual_setup.description" = "The URL of your Bsmart server. Make sure it includes the protocol and port.";
 "onboarding.manual_setup.no_scheme.message" = "Zkusit se připojit přes http:// nebo https://?";
 "onboarding.manual_setup.no_scheme.title" = "URL zadáno bez schématu";
 "onboarding.manual_setup.title" = "Enter URL";
@@ -249,10 +249,10 @@ Tagy budou fungovat na jakémkoliv zařízení s Home Assistantem a hardwarovou 
 "onboarding.scanning.manual" = "Enter Address Manually";
 "onboarding.scanning.manual_hint" = "Not finding your server?";
 "onboarding.scanning.title" = "Scanning for Servers";
-"onboarding.welcome.description" = "This app connects to your Home Assistant server and allows integrating data about you and your phone.\
+"onboarding.welcome.description" = "This app connects to your Bsmart server and allows integrating data about you and your phone.\
 \
-Home Assistant is free and open source home automation software with a focus on local control and privacy.";
-"onboarding.welcome.title" = "Welcome to Home Assistant %@!";
+Bsmart App is free and open source home automation software with a focus on local control and privacy.";
+"onboarding.welcome.title" = "Welcome to Bsmart App %@!";
 "open_label" = "Otevřít";
 "preview_output" = "Preview Output";
 "requires_version" = "Requires %@ or later.";

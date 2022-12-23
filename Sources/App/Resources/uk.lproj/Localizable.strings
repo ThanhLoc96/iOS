@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "Підключення";
 "onboarding.manual_setup.couldnt_make_url.message" = "Значення \"%@\" не є допустимою URL-адресою.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Не вдалося створити URL";
-"onboarding.manual_setup.description" = "URL-адреса вашого сервера Home Assistant. Переконайтеся, що він містить протокол і порт.";
+"onboarding.manual_setup.description" = "URL-адреса вашого сервера Bsmart. Переконайтеся, що він містить протокол і порт.";
 "onboarding.manual_setup.no_scheme.message" = "Чи варто спробувати підключитися за допомогою http: // або https: //?";
 "onboarding.manual_setup.no_scheme.title" = "URL-адреса введена без схеми";
 "onboarding.manual_setup.title" = "Введіть URL-адресу";
@@ -249,10 +249,10 @@
 "onboarding.scanning.manual" = "Ввести адресу вручну";
 "onboarding.scanning.manual_hint" = "Не знайшли свій сервер?";
 "onboarding.scanning.title" = "Сканування серверів";
-"onboarding.welcome.description" = "This app connects to your Home Assistant server and allows integrating data about you and your phone.\
+"onboarding.welcome.description" = "This app connects to your Bsmart server and allows integrating data about you and your phone.\
 \
-Home Assistant is free and open source home automation software with a focus on local control and privacy.";
-"onboarding.welcome.title" = "Ласкаво просимо до Home Assistant %@ !";
+Bsmart App is free and open source home automation software with a focus on local control and privacy.";
+"onboarding.welcome.title" = "Ласкаво просимо до Bsmart App %@ !";
 "open_label" = "Відкрити";
 "preview_output" = "Попередній перегляд";
 "requires_version" = "Requires %@ or later.";

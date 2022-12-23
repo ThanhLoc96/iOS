@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "接続";
 "onboarding.manual_setup.couldnt_make_url.message" = "値 %@ は、有効なURLではありませんでした。";
 "onboarding.manual_setup.couldnt_make_url.title" = "URLを作成できませんでした";
-"onboarding.manual_setup.description" = "Home AssistantサーバーのURL。プロトコルとポートが含まれていることを確認してください。";
+"onboarding.manual_setup.description" = "BsmartサーバーのURL。プロトコルとポートが含まれていることを確認してください。";
 "onboarding.manual_setup.no_scheme.message" = "http:// または、https:// を使用して接続してみる必要がありますか？";
 "onboarding.manual_setup.no_scheme.title" = "スキームなしで入力されたURL";
 "onboarding.manual_setup.title" = "URLを入力";
@@ -249,10 +249,10 @@
 "onboarding.scanning.manual" = "アドレスを手動で入力";
 "onboarding.scanning.manual_hint" = "サーバーが見つかりませんか？";
 "onboarding.scanning.title" = "サーバーのスキャン";
-"onboarding.welcome.description" = "このアプリは、あなたのHome Assistantのサーバーに接続し、あなたとあなたの携帯電話に関するデータを統合することができます。\
+"onboarding.welcome.description" = "このアプリは、あなたのBsmartのサーバーに接続し、あなたとあなたの携帯電話に関するデータを統合することができます。\
 \
 Home Assistantは、ローカルコントロールとプライバシーに重点を置いた、フリーでオープンソースなホームオートメーションソフトウェアです。";
-"onboarding.welcome.title" = "Home Assistantへようこそ %@！";
+"onboarding.welcome.title" = "Bsmart Appへようこそ %@！";
 "open_label" = "オープン";
 "preview_output" = "プレビュー出力";
 "requires_version" = "%@ 以降が必要です。";

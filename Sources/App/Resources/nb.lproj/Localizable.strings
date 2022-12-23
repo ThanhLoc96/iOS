@@ -215,7 +215,7 @@ Koder vil fungere på alle enheter med Home Assistant installert som har maskinv
 "onboarding.manual_setup.connect" = "Koble";
 "onboarding.manual_setup.couldnt_make_url.message" = "Verdien %@ var ikke en gyldig URL-adresse.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Kan ikke opprette en URL-adresse";
-"onboarding.manual_setup.description" = "Nettadressen til Home Assistant -serveren. Sørg for at den inneholder protokollen og porten.";
+"onboarding.manual_setup.description" = "Nettadressen til Bsmart -serveren. Sørg for at den inneholder protokollen og porten.";
 "onboarding.manual_setup.no_scheme.message" = "Skal vi prøve å koble til ved hjelp av http:// eller https://?";
 "onboarding.manual_setup.no_scheme.title" = "URL angitt uten skjema";
 "onboarding.manual_setup.title" = "Skriv inn URL";
@@ -249,10 +249,10 @@ Koder vil fungere på alle enheter med Home Assistant installert som har maskinv
 "onboarding.scanning.manual" = "Skriv inn adressen manuelt";
 "onboarding.scanning.manual_hint" = "Finner du ikke serveren din?";
 "onboarding.scanning.title" = "Søker etter servere";
-"onboarding.welcome.description" = "Denne appen kobles til Home Assistant -serveren og lar deg integrere data om deg og telefonen. \
+"onboarding.welcome.description" = "Denne appen kobles til Bsmart -serveren og lar deg integrere data om deg og telefonen. \
 \
  Home Assistant er gratis og åpen kildekode hjemmeautomatiseringsprogramvare med fokus på lokal kontroll og personvern.";
-"onboarding.welcome.title" = "Velkommen til Home Assistant %@ !";
+"onboarding.welcome.title" = "Velkommen til Bsmart App %@ !";
 "open_label" = "Åpen";
 "preview_output" = "Forhåndsvisning";
 "requires_version" = "Krever %@ eller nyere.";

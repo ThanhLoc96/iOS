@@ -215,7 +215,7 @@ Tag akan berfungsi di semua perangkat apa yang dipasangi Home Assistant, yang me
 "onboarding.manual_setup.connect" = "Hubungkan";
 "onboarding.manual_setup.couldnt_make_url.message" = "Nilai '%@' bukan URL yang valid.";
 "onboarding.manual_setup.couldnt_make_url.title" = "Tidak dapat membuat URL";
-"onboarding.manual_setup.description" = "URL server Home Assistant Anda. Pastikan untuk menyertakan protokol dan port.";
+"onboarding.manual_setup.description" = "URL server Bsmart Anda. Pastikan untuk menyertakan protokol dan port.";
 "onboarding.manual_setup.no_scheme.message" = "Haruskah kami mencoba terhubung menggunakan http:// atau https://?";
 "onboarding.manual_setup.no_scheme.title" = "URL dimasukkan tanpa skema";
 "onboarding.manual_setup.title" = "Masukkan URL";
@@ -252,7 +252,7 @@ Tag akan berfungsi di semua perangkat apa yang dipasangi Home Assistant, yang me
 "onboarding.welcome.description" = "Aplikasi ini terhubung ke server Asisten Rumah Anda dan memungkinkan integrasi data tentang Anda dan ponsel Anda.\
 \
 Home Assistant adalah perangkat lunak otomasi rumah gratis dan sumber terbuka dengan fokus pada kontrol dan privasi lokal.";
-"onboarding.welcome.title" = "Selamat datang di Home Assistant %@!";
+"onboarding.welcome.title" = "Selamat datang di Bsmart App %@!";
 "open_label" = "Buka";
 "preview_output" = "Pratinjau Output";
 "requires_version" = "Membutuhkan %@ atau lebih baru.";

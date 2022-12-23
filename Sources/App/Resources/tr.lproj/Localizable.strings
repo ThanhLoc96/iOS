@@ -215,7 +215,7 @@
 "onboarding.manual_setup.connect" = "Bağlan";
 "onboarding.manual_setup.couldnt_make_url.message" = "\" %@ \" değeri geçerli bir URL değildi.";
 "onboarding.manual_setup.couldnt_make_url.title" = "URL oluşturulamadı";
-"onboarding.manual_setup.description" = "Home Assistant sunucunuzun URL'si. Protokolü ve bağlantı noktasını içerdiğinden emin olun.";
+"onboarding.manual_setup.description" = "Bsmart sunucunuzun URL'si. Protokolü ve bağlantı noktasını içerdiğinden emin olun.";
 "onboarding.manual_setup.no_scheme.message" = "Http: // veya https: // kullanarak bağlanmayı denemeli miyiz?";
 "onboarding.manual_setup.no_scheme.title" = "Şema olmadan girilen URL";
 "onboarding.manual_setup.title" = "URL girin";
@@ -249,7 +249,7 @@
 "onboarding.scanning.manual" = "Adresi El ile Girin";
 "onboarding.scanning.manual_hint" = "Sunucunuzu bulamıyor musunuz?";
 "onboarding.scanning.title" = "Sunucular için Tarama";
-"onboarding.welcome.description" = "Bu uygulama, Home Assistant sunucunuza bağlanır ve siz ve telefonunuz hakkındaki verilerin entegre edilmesini sağlar. \
+"onboarding.welcome.description" = "Bu uygulama, Bsmart sunucunuza bağlanır ve siz ve telefonunuz hakkındaki verilerin entegre edilmesini sağlar. \
 \
  Home Assistant, yerel kontrol ve gizliliğe odaklanan ücretsiz ve açık kaynaklı bir ev otomasyon yazılımıdır.";
 "onboarding.welcome.title" = "Home Assistant'a Hoş Geldiniz %@!";
