@@ -7,7 +7,8 @@ import UIKit
 
 class OnboardingWelcomeViewController: UIViewController, OnboardingViewController {
     private var animationView: LottieAnimationView?
-
+    var logo: UIImageView? = nil
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         animationView?.play(toMarker: "Circles Formed")
@@ -23,9 +24,9 @@ class OnboardingWelcomeViewController: UIViewController, OnboardingViewControlle
         let (_, stackView, equalSpacers) = UIView.contentStackView(in: view, scrolling: true)
 
         stackView.addArrangedSubview(equalSpacers.next())
-        stackView.addArrangedSubview(with(LottieAnimationView(animation: .named("ha-loading"))) {
-            animationView = $0
-            $0.loopMode = .playOnce
+        stackView.addArrangedSubview(with(UIImageView()) {
+            logo = $0
+            $0.image = UIImage(named: "Logo")
 
             NSLayoutConstraint.activate([
                 with($0.widthAnchor.constraint(equalToConstant: 240.0)) {
