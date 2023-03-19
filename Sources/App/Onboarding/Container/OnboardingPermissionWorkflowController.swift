@@ -28,6 +28,6 @@ class OnboardingPermissionViewControllerFactory {
             permissions.append(.focus)
         }
 
-        return permissions.filter { $0.status == .unknown }
+        return permissions.filter { $0.status == .notDetermined }
     }
 }

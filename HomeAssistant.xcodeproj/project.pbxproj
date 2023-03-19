@@ -470,7 +470,6 @@
 		11F855DC24DF6C7A0018013E /* IconImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F855D524DF6C7A0018013E /* IconImageView.swift */; };
 		11F855DD24DF6C7A0018013E /* IconImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F855D524DF6C7A0018013E /* IconImageView.swift */; };
 		11F893B025C5F56700820C61 /* GoogleService-Info-Debug.plist in Resources */ = {isa = PBXBuildFile; fileRef = B658AA7222506AD400C9BFE3 /* GoogleService-Info-Debug.plist */; };
-		11F893B125C5F56700820C61 /* GoogleService-Info-Release.plist in Resources */ = {isa = PBXBuildFile; fileRef = B658AA6E2250692E00C9BFE3 /* GoogleService-Info-Release.plist */; };
 		11F893B225C5F56700820C61 /* GoogleService-Info-Beta.plist in Resources */ = {isa = PBXBuildFile; fileRef = B658AA7622506DAF00C9BFE3 /* GoogleService-Info-Beta.plist */; };
 		11F8A53F25A6ADA400BF1D97 /* Reachability+NetworkType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B62817F1221D6CF4000BA86A /* Reachability+NetworkType.swift */; };
 		11FA53F2251071D2008D9506 /* NSItemProvider+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FA53F1251071D2008D9506 /* NSItemProvider+Additions.swift */; };
@@ -492,6 +491,7 @@
 		84F7755EFB03C3F463292ABF /* Pods-watchOS-Shared-watchOS-metadata.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6B55CB9064A0477C9F456B6A /* Pods-watchOS-Shared-watchOS-metadata.plist */; };
 		8E5FA96C740F1D671966CEA9 /* Pods-iOS-Extensions-NotificationContent-metadata.plist in Resources */ = {isa = PBXBuildFile; fileRef = B613440AEDD4209862503F5D /* Pods-iOS-Extensions-NotificationContent-metadata.plist */; };
 		99FADB7D51EDA255CD841D90 /* Pods_iOS_Extensions_Today.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A6E8DF7DED57BAD4EF47D11 /* Pods_iOS_Extensions_Today.framework */; };
+		A076EC4629C77EFC0015E0B5 /* GoogleService-Info-Release.plist in Resources */ = {isa = PBXBuildFile; fileRef = A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */; };
 		B6022213226DAC9D00E8DBFE /* ScaledFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6022212226DAC9D00E8DBFE /* ScaledFont.swift */; };
 		B6022223226DBA3800E8DBFE /* OnboardingNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6022222226DBA3800E8DBFE /* OnboardingNavigationViewController.swift */; };
 		B60248001FBD343000998205 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B60247FE1FBD343000998205 /* InfoPlist.strings */; };
@@ -1455,6 +1455,7 @@
 		9C4E5E25229D986B0044C8EC /* HomeAssistant.beta.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HomeAssistant.beta.xcconfig; sourceTree = "<group>"; };
 		9C4E5E27229D992A0044C8EC /* HomeAssistant.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HomeAssistant.xcconfig; sourceTree = "<group>"; };
 		9C7970E308CFEAEAFA05E004 /* Pods-iOS-Extensions-NotificationContent.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Extensions-NotificationContent.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Extensions-NotificationContent/Pods-iOS-Extensions-NotificationContent.release.xcconfig"; sourceTree = "<group>"; };
+		A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Release.plist"; sourceTree = "<group>"; };
 		A0CE1C12B4ACF0A6876B6F7F /* Pods-iOS-Extensions-Today.beta.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Extensions-Today.beta.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Extensions-Today/Pods-iOS-Extensions-Today.beta.xcconfig"; sourceTree = "<group>"; };
 		A370326321B07E5ACE0BCB65 /* Pods_iOS_Extensions_PushProvider.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOS_Extensions_PushProvider.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90DD8FC6E4726B7E7187C59 /* Pods_watchOS_WatchExtension_Watch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_watchOS_WatchExtension_Watch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1724,7 +1725,6 @@
 		B657A90B1CA646EB00121384 /* HomeAssistantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAssistantUITests.swift; sourceTree = "<group>"; };
 		B657A90D1CA646EB00121384 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B657A9191CA647C500121384 /* HAAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = HAAPI.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		B658AA6E2250692E00C9BFE3 /* GoogleService-Info-Release.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Release.plist"; sourceTree = "<group>"; };
 		B658AA7222506AD400C9BFE3 /* GoogleService-Info-Debug.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Debug.plist"; sourceTree = "<group>"; };
 		B658AA7622506DAF00C9BFE3 /* GoogleService-Info-Beta.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Beta.plist"; sourceTree = "<group>"; };
 		B658AA7C2250B25D00C9BFE3 /* MobileAppUpdateRegistrationRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileAppUpdateRegistrationRequest.swift; sourceTree = "<group>"; };
@@ -3223,8 +3223,8 @@
 				B657A8F21CA646EB00121384 /* Assets.xcassets */,
 				B672AB552216B07500175465 /* gallery.ckcomplication */,
 				B658AA7622506DAF00C9BFE3 /* GoogleService-Info-Beta.plist */,
+				A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */,
 				B658AA7222506AD400C9BFE3 /* GoogleService-Info-Debug.plist */,
-				B658AA6E2250692E00C9BFE3 /* GoogleService-Info-Release.plist */,
 				B657A8F71CA646EB00121384 /* Info.plist */,
 				116570582702A3B9003906A7 /* Frontend.strings */,
 				B60247FE1FBD343000998205 /* InfoPlist.strings */,
@@ -4287,6 +4287,7 @@
 				B606160B1D1F117700249C11 /* US-EN-Morgan-Freeman-Back-Door-Locked.wav in Resources */,
 				11F893B225C5F56700820C61 /* GoogleService-Info-Beta.plist in Resources */,
 				B606164A1D1F117700249C11 /* US-EN-Morgan-Freeman-Turning-On-The-Chandelier.wav in Resources */,
+				A076EC4629C77EFC0015E0B5 /* GoogleService-Info-Release.plist in Resources */,
 				B60616AF1D1F117800249C11 /* US-EN-Daisy-Front-Door-Motion.wav in Resources */,
 				B606160D1D1F117700249C11 /* US-EN-Morgan-Freeman-Back-Door-Unlocked.wav in Resources */,
 				B606168A1D1F117700249C11 /* US-EN-Alexa-Motion-At-Front-Door.wav in Resources */,
@@ -4335,7 +4336,6 @@
 				B60616871D1F117700249C11 /* US-EN-Alexa-Husband-Is-Arriving.wav in Resources */,
 				B60616501D1F117700249C11 /* US-EN-Morgan-Freeman-Turning-On-The-Mood-Lights.wav in Resources */,
 				B64E754723F3BFF200472C04 /* old-beta@3x.png in Resources */,
-				11F893B125C5F56700820C61 /* GoogleService-Info-Release.plist in Resources */,
 				38A4EBA18ADEEE555AD14F52 /* Pods-iOS-App-metadata.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -5750,12 +5750,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Share/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .ShareExtension;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -5769,6 +5771,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/Share/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -5776,6 +5779,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .ShareExtension;
 				SUPPORTS_MACCATALYST = YES;
@@ -5788,12 +5792,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Share/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .ShareExtension;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -5864,6 +5870,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Widgets/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -5871,6 +5878,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -5887,6 +5895,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/Widgets/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -5895,6 +5904,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
@@ -5910,6 +5920,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Widgets/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -5917,6 +5928,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -5965,6 +5977,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/NotificationContent/Resources/Info.plist;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -5972,6 +5985,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .NotificationContentExtension;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -5985,6 +5999,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/NotificationContent/Resources/Info.plist;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.0;
@@ -5993,6 +6008,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .NotificationContentExtension;
 				SUPPORTS_MACCATALYST = YES;
@@ -6013,14 +6029,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon${BUNDLE_ID_SUFFIX}";
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/App-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/App-catalyst.entitlements";
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 2;
 				ENV_URL_HANDLER = "homeassistant-beta";
 				INFOPLIST_FILE = Sources/App/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -6080,12 +6096,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/NotificationService/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .APNSAttachmentService;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -6097,6 +6115,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/NotificationContent/Resources/Info.plist;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -6104,6 +6123,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .NotificationContentExtension;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -6154,6 +6174,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Intents/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.2;
@@ -6162,6 +6183,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-framework",
@@ -6195,14 +6217,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon${BUNDLE_ID_SUFFIX}";
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/App-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/App-catalyst.entitlements";
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 2;
 				ENV_URL_HANDLER = "homeassistant-dev";
 				INFOPLIST_FILE = Sources/App/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -6240,7 +6262,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/App-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				ENV_URL_HANDLER = homeassistant;
 				INFOPLIST_FILE = Sources/App/Resources/Info.plist;
@@ -6248,7 +6270,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -6334,6 +6356,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Intents/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 14.2;
@@ -6342,6 +6365,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-framework",
@@ -6362,6 +6386,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/Intents/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -6371,6 +6396,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-framework",
@@ -6390,6 +6416,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Today/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -6397,6 +6424,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .TodayWidget;
 				SUPPORTS_MACCATALYST = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -6411,6 +6439,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/Today/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
@@ -6419,6 +6448,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .TodayWidget;
 				SUPPORTS_MACCATALYST = NO;
@@ -6432,6 +6462,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/Today/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -6439,6 +6470,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .TodayWidget;
 				SUPPORTS_MACCATALYST = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -6532,12 +6564,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "Configuration/Entitlements/Extension-ios.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
+				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = Sources/Extensions/NotificationService/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_SUFFIX = .APNSAttachmentService;
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -6551,6 +6585,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Configuration/Entitlements/Extension-catalyst.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = W74WQSMXKK;
 				INFOPLIST_FILE = Sources/Extensions/NotificationService/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -6558,6 +6593,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .APNSAttachmentService;
 				SUPPORTS_MACCATALYST = YES;
