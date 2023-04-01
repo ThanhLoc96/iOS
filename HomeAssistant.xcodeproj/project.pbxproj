@@ -491,7 +491,6 @@
 		84F7755EFB03C3F463292ABF /* Pods-watchOS-Shared-watchOS-metadata.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6B55CB9064A0477C9F456B6A /* Pods-watchOS-Shared-watchOS-metadata.plist */; };
 		8E5FA96C740F1D671966CEA9 /* Pods-iOS-Extensions-NotificationContent-metadata.plist in Resources */ = {isa = PBXBuildFile; fileRef = B613440AEDD4209862503F5D /* Pods-iOS-Extensions-NotificationContent-metadata.plist */; };
 		99FADB7D51EDA255CD841D90 /* Pods_iOS_Extensions_Today.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A6E8DF7DED57BAD4EF47D11 /* Pods_iOS_Extensions_Today.framework */; };
-		A076EC4629C77EFC0015E0B5 /* GoogleService-Info-Release.plist in Resources */ = {isa = PBXBuildFile; fileRef = A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */; };
 		B6022213226DAC9D00E8DBFE /* ScaledFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6022212226DAC9D00E8DBFE /* ScaledFont.swift */; };
 		B6022223226DBA3800E8DBFE /* OnboardingNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6022222226DBA3800E8DBFE /* OnboardingNavigationViewController.swift */; };
 		B60248001FBD343000998205 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B60247FE1FBD343000998205 /* InfoPlist.strings */; };
@@ -1455,7 +1454,7 @@
 		9C4E5E25229D986B0044C8EC /* HomeAssistant.beta.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HomeAssistant.beta.xcconfig; sourceTree = "<group>"; };
 		9C4E5E27229D992A0044C8EC /* HomeAssistant.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = HomeAssistant.xcconfig; sourceTree = "<group>"; };
 		9C7970E308CFEAEAFA05E004 /* Pods-iOS-Extensions-NotificationContent.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Extensions-NotificationContent.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Extensions-NotificationContent/Pods-iOS-Extensions-NotificationContent.release.xcconfig"; sourceTree = "<group>"; };
-		A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Release.plist"; sourceTree = "<group>"; };
+		A0B959E429D28982005B8BEC /* GoogleService-Info-Release.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info-Release.plist"; sourceTree = "<group>"; };
 		A0CE1C12B4ACF0A6876B6F7F /* Pods-iOS-Extensions-Today.beta.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-Extensions-Today.beta.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-Extensions-Today/Pods-iOS-Extensions-Today.beta.xcconfig"; sourceTree = "<group>"; };
 		A370326321B07E5ACE0BCB65 /* Pods_iOS_Extensions_PushProvider.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOS_Extensions_PushProvider.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90DD8FC6E4726B7E7187C59 /* Pods_watchOS_WatchExtension_Watch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_watchOS_WatchExtension_Watch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -3223,8 +3222,8 @@
 				B657A8F21CA646EB00121384 /* Assets.xcassets */,
 				B672AB552216B07500175465 /* gallery.ckcomplication */,
 				B658AA7622506DAF00C9BFE3 /* GoogleService-Info-Beta.plist */,
-				A076EC4529C77EFC0015E0B5 /* GoogleService-Info-Release.plist */,
 				B658AA7222506AD400C9BFE3 /* GoogleService-Info-Debug.plist */,
+				A0B959E429D28982005B8BEC /* GoogleService-Info-Release.plist */,
 				B657A8F71CA646EB00121384 /* Info.plist */,
 				116570582702A3B9003906A7 /* Frontend.strings */,
 				B60247FE1FBD343000998205 /* InfoPlist.strings */,
@@ -4287,7 +4286,6 @@
 				B606160B1D1F117700249C11 /* US-EN-Morgan-Freeman-Back-Door-Locked.wav in Resources */,
 				11F893B225C5F56700820C61 /* GoogleService-Info-Beta.plist in Resources */,
 				B606164A1D1F117700249C11 /* US-EN-Morgan-Freeman-Turning-On-The-Chandelier.wav in Resources */,
-				A076EC4629C77EFC0015E0B5 /* GoogleService-Info-Release.plist in Resources */,
 				B60616AF1D1F117800249C11 /* US-EN-Daisy-Front-Door-Motion.wav in Resources */,
 				B606160D1D1F117700249C11 /* US-EN-Morgan-Freeman-Back-Door-Unlocked.wav in Resources */,
 				B606168A1D1F117700249C11 /* US-EN-Alexa-Motion-At-Front-Door.wav in Resources */,
@@ -5878,7 +5876,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.0;
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -5904,7 +5902,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.0;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
@@ -5928,7 +5926,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.0;
 				PROVISIONING_SUFFIX = .Widgets;
 				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
